@@ -1,6 +1,11 @@
 # Zelda3
 A reimplementation of Zelda 3.
 
+# Dislcaimer
+I do not own the legal rights to Zelda or any affiliation with Nintendo
+
+Original source [code](https://github.com/snesrev/zelda3)
+
 ## About
 
 This is a reverse engineered clone of Zelda 3 - A Link to the Past.
