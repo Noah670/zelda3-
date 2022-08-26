@@ -2,7 +2,6 @@
 /packages/
 .DS_Store
 *.dSYM
-/Debug
 /Release
 /x64
 /tables/overworld/*.yaml
