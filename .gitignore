@@ -2,8 +2,6 @@
 /packages/
 .DS_Store
 *.dSYM
-/Release
-/x64
 /tables/overworld/*.yaml
 /tables/dungeon/*.yaml
 /tables/img/

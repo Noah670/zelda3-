@@ -1,0 +1,40 @@
+﻿  ancilla.cpp
+  attract.cpp
+  dungeon.cpp
+  ending.cpp
+  hud.cpp
+  load_gfx.cpp
+  messaging.cpp
+  misc.cpp
+  nmi.cpp
+  other_modules.cpp
+  overlord.cpp
+  overworld.cpp
+  player.cpp
+  player_oam.cpp
+  poly.cpp
+  select_file.cpp
+  spc_player.cpp
+  sprite.cpp
+  sprite_main.cpp
+  tagalong.cpp
+  Generating Code...
+  Compiling...
+  tile_detect.cpp
+  zelda_cpu_infra.cpp
+  zelda_rtl.cpp
+  Generating Code...
+  main.cpp
+  apu.cpp
+  cart.cpp
+  cpu.cpp
+  dma.cpp
+  dsp.cpp
+  input.cpp
+  snes.cpp
+  snes_other.cpp
+  spc.cpp
+  tracing.cpp
+  Generating Code...
+  ppu.cpp
+  zelda3.vcxproj -> C:\Users\x\Desktop\dev\Zelda3\New folder\zelda3-sdl_from_nuget\x64\Debug\zelda3.exe
