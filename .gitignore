@@ -1,0 +1,13 @@
+/.vs/
+/packages/
+.DS_Store
+*.dSYM
+/Debug
+/Release
+/x64
+/tables/overworld/*.yaml
+/tables/dungeon/*.yaml
+/tables/img/
+/tables/old/
+/saves/*.sav
+__pycache__
